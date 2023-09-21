@@ -1,10 +1,12 @@
-### Hi there 👋
+# Lernprojekte
 
+Ich habe dieses Benutzerkonto für alle Freigeister erschaffen, deren Pioniergeist, Wissensdurst und Drang nach Erkenntnis von den deutschen _Bildungsanstalten_ verkannt wurden. Daher möchte ich hier Projekte ins Leben rufen, die das Erlernen neuer Kenntnisse und Fähigkeiten und das Ausbilden eines tiefergreifenden Verständnisses spezieller Themen im Einzelnen aber auch verschiedener Themengebiete untereinander unterstützen. Ich hoffe, dass es mir gelingt, hier nach und nach eine wertvolle Ansammlung an Lern- und Übungsprojekten entstehen zu lassen, die Anderen auf ihrem Weg hilft, ihren eigenen Interessen zu folgen und ihren eigenen Lernzielen nachzugehen. Wenn es mir gelingt, meinen Teil dazu beizutragen, dann erfüllt mich das mit Genugtuung und Zufriedenheit.
 <!--
-**das-lernprojekt/das-lernprojekt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lernprojekte/lernprojekte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
