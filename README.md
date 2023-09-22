@@ -15,4 +15,37 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Schriftarten von google-fonts, die ich mir bei einem groben Durchsuchen herausgesucht habe, von denen ich mir noch ein oder zwei für die Projekte heraussuchen möchte:
+ABeeZee
+Tillana
+Kavivanar
+Yusei Magic
+Salsa
+Farsan
+Paprika
+Dekko
+Lobster
+Caveat
+Lexend (und Varianten: Lexend Deca, Lexend Exa, ...)
+Kalam
+Paytone One
+Cookie
+Concert One
+Patrick Hand
+Merienda
+Londrina Solid
+Short Stack
+Italianno
+Whereas disregard and contempt for human rights have resulted
+Shadows Into Light Two
+Delius
+Charmonman
+Londrina Outline
+Akaya Telivigala
+Fuzzy Bubbles
+Vujahday Script
+Solitreo
+Aref Ruqaa Ink
+Estonia
 -->
