@@ -18,29 +18,28 @@ Here are some ideas to get you started:
 
 Schriftarten von google-fonts, die ich mir bei einem groben Durchsuchen herausgesucht habe, von denen ich mir noch ein oder zwei für die Projekte heraussuchen möchte:
 Schöne, einfache, klar lesbare Schriftarten:
-Quicksand
-ABeeZee
-Lexend (und Lexend-Varianten (Deca, Exa, Mega, ...))
-Patrick Hand
-Yusei Magic
-Farsan
-Paprika
-Tillana
-Delius
-Fredoka
-Baloo Thambi 2
-Lumanosimo
-Dekko
+– Quicksand
+– ABeeZee
+– Lexend (und Lexend-Varianten (Deca, Exa, Mega, ...))
+– Patrick Hand
+– Yusei Magic
+– Farsan
+– Paprika
+– Tillana
+– Delius
+– Fredoka
+– Lumanosimo
+– Dekko
 GE Inspira
 
 
 Künstlerische, z.B. handschriftähnliche Schriftarten:
-Dancing Script
-Lobster, Lobser Two
-Kalam
-Caveat (+ Caveat Brush?)
-Playball
-Charm
+– Dancing Script
+– Lobster, Lobser Two
+– Kalam
+– Caveat (+ Caveat Brush?)
+– Playball
+– Charm
 Eagle Lake
 Akaya Kanadaka, Akaya Telivigala
 Jim Nightshade
