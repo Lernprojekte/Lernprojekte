@@ -17,46 +17,82 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Schriftarten von google-fonts, die ich mir bei einem groben Durchsuchen herausgesucht habe, von denen ich mir noch ein oder zwei für die Projekte heraussuchen möchte:
-Schöne, einfache geometrische Schriftarten:
+Schöne, einfache, klar lesbare Schriftarten:
 Quicksand
 ABeeZee
-Lexend (und Varianten: Lexend Deca, Lexend Exa, ...)
+Lexend (und Lexend-Varianten (Deca, Exa, Mega, ...))
+Patrick Hand
+Yusei Magic
+Farsan
+Paprika
+Tillana
+Delius
+Fredoka
+Baloo Thambi 2
+Lumanosimo
+Dekko
+GE Inspira
 
 
 Künstlerische, z.B. handschriftähnliche Schriftarten:
 Dancing Script
 Lobster, Lobser Two
 Kalam
+Caveat (+ Caveat Brush?)
+Playball
+Charm
+Eagle Lake
+Akaya Kanadaka, Akaya Telivigala
+Jim Nightshade
+Solitreo
+Langar
+Sofadi One
+Blaka
+Darumadrop One
+Estonia
+Cookie
+Short Stack
+Italianno
+Charmonman
+Fuzzy Bubbles
+Vujahday Script
 
 
 Kräftige Schriftarten z.B. für Überschriften:
 Paytone One
 Concert One
-
-
-Tillana
+Bree Serif
+Carter One
 Kavivanar
-Yusei Magic
+Londrina Solid, Londrina Outline
+Rammetto One
+Mogra
 Salsa
-Farsan
-Paprika
-Dekko
-Caveat
-Paytone One
-Cookie
-Patrick Hand
-Merienda
-Londrina Solid
-Short Stack
-Italianno
-Shadows Into Light Two
-Delius
-Charmonman
-Londrina Outline
-Akaya Telivigala
-Fuzzy Bubbles
-Vujahday Script
-Solitreo
+Spicy Rice
+Seymour One
+Fruktur
+
+
+------------------
+---------------------
+
+Eine Abweichung aber ansprechend:
+Outfit
+Fjalla One
+Balsamiq Sans
+Kurale
+Gabriela
+Almendra
+Dongle
+Ranga
+
+
+Zwei Abweichungen aber ansprechend:
+Alkatra
+Mitr
+Klee One
+Chelsea Market
+Coiny
+Grenze
 Aref Ruqaa Ink
-Estonia
 -->
