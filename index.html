@@ -3,17 +3,45 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="../Darstellungsregeln/Medium_Allgemein.css" />
-  <link rel="stylesheet" type="text/css" href="../Darstellungsregeln/Medium_Bildschirm_gs.css" />
-  <link rel="stylesheet" type="text/css" href="../Darstellungsregeln/Medium_Bildschirm_gw.css" />
-  <link rel="stylesheet" type="text/css" href="../Darstellungsregeln/Medium_Bildschirm_ks.css" />
-  <link rel="stylesheet" type="text/css" href="../Darstellungsregeln/Medium_Bildschirm_kw.css" />
-  <link rel="stylesheet" type="text/css" href="../Darstellungsregeln/Projekt_Lernprojekte.css" />
-  <link rel="stylesheet" type="text/css" href="../Darstellungsregeln/Medium_Drucker.css" />
-  <title>Lernprojekte</title>
+  <link rel="stylesheet" type="text/css" href="../Einzeldokumentation.css">
+  <link rel="icon" type="image/x-icon" href="../favicon.ico">
+  <script defer src="../Lernprojekteliste.js"></script>
+  <script defer src="../Einzeldokumentation.js"></script>
+  
+  
+  
+  <title>Lernprojekte-Übersicht</title>
+
+
+
 </head>
+
 <body>
-  <h1 style="font-family: 'Londrina Shadow';">Lernprojekte</h1>
-  <p>Ich habe die Projektesammlung „Lernprojekte“ für alle Freigeister ins Leben gerufen, deren Pioniergeist, Wissensdurst und Drang nach Erkenntnis von den deutschen <i>Bildungsanstalten</i> verkannt wurden. Daher möchte ich hier nach und nach neue Projekte erschaffen, die das Erlernen neuer Kenntnisse und Fähigkeiten sowie das Ausbilden eines tiefergreifenden Verständnisses spezieller Themen im Einzelnen aber auch des Zusammenhangs verschiedener Themengebiete untereinander unterstützen sollen. Ich hoffe, dass es mir im Laufe der Zeit gelingt, hier eine wertvolle Ansammlung an Lern- und Übungsprojekten entstehen zu lassen, die Anderen auf ihrem Wege, ihren eigenen Interessen zu folgen und ihre eigenen Lernziele erfolgreich zu meistern, eine hilfreiche Stütze ist. Wenn es mir gelingt, meinen Teil dazu beizutragen, dann erfüllt mich das mit Genugtuung und Zufriedenheit.</p>
+  <div id="Kopfzeile">
+    <a href="https://github.com/Lernprojekte">
+      <img id="Titelbild" src="https://avatars.githubusercontent.com/u/145531931" />
+    </a>
+    <a id="Titelzeile" href="../index.html">Lernprojekte</a>
+    <img
+     id="HellDunkel"
+     src="../Sonne-Mond.svg"
+     style="width: 32px; height: 32px; cursor: pointer;"
+     onclick="document.body.classList.toggle('hell');" />
+  </div>
+
+
+
+  <div id="Inhaltsbereich">
+    <h1>Lernprojekte-Übersicht</h1>
+    
+    <p>Ich habe die Projektesammlung „Lernprojekte“ für alle Freigeister ins Leben gerufen, deren Pioniergeist, Wissensdurst und Drang nach Erkenntnis die deutschen <i>„Bildungsanstalten“</i> nicht gerecht werden wollten. Daher möchte ich hier nach und nach neue Projekte erschaffen, die das Erlernen neuer Kenntnisse und Fähigkeiten sowie das Ausbilden eines tiefergreifenden Verständnisses spezieller Themen im Einzelnen aber auch des Zusammenhangs verschiedener Themengebiete untereinander unterstützen sollen. Ich hoffe, dass es mir im Laufe der Zeit gelingt, hier eine wertvolle Ansammlung von Lern- und Übungsprojekten entstehen zu lassen, die Anderen auf ihrem Wege, ihren eigenen Interessen zu folgen und ihre eigenen Lernziele erfolgreich zu meistern, eine hilfreiche Stütze ist. Wenn es mir gelingt, meinen Teil dazu beizutragen, dann erfüllt mich das mit Genugtuung und Zufriedenheit.</p>
+  </div>
+
+
+
+  <div id="Fußzeile">
+    <div class="klein">Alle Projekte:</div>
+    <div id="Projektliste"></div>
+  </div>
 </body>
 </html>
